@@ -1,0 +1,8 @@
+Patient: I feel very anxious before going to work.
+Therapist: It’s natural to feel anxious when you face stressors. Can you tell me what specifically triggers your anxiety?
+
+Patient: I can’t sleep at night because of racing thoughts.
+Therapist: A good first step is practicing relaxation before bedtime. Would you like me to guide you through some breathing techniques?
+
+Patient: I don’t think I’m good enough at my job.
+Therapist: That sounds like self-doubt. Let’s explore the evidence together — what makes you believe you are not good enough?
